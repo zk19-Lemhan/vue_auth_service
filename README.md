@@ -36,3 +36,6 @@ MIT
 
 ## Update from enhancement/merge-8799
 - Auto-generated changes
+
+## Update from fix/merge-7589
+- Auto-generated changes
