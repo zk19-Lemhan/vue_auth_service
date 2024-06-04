@@ -45,7 +45,3 @@ async function fetchData(endpoint) {
 }
 
 module.exports = { processData, fetchData, config };
-
-# Update 1760147147-29811
-
-# Update 1760147147-15163
