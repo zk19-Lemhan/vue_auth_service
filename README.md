@@ -33,3 +33,6 @@ MIT
 
 ## Update from docs/merge-4646
 - Auto-generated changes
+
+## Update from enhancement/merge-8799
+- Auto-generated changes
