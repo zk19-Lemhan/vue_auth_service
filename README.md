@@ -21,3 +21,6 @@ MIT
 
 ## Update from refactor/merge-1262
 - Auto-generated changes
+
+## Update from docs/merge-2728
+- Auto-generated changes
