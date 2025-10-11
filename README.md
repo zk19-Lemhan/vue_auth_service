@@ -39,3 +39,6 @@ MIT
 
 ## Update from fix/merge-7589
 - Auto-generated changes
+
+## Update from docs/merge-6573
+- Auto-generated changes
